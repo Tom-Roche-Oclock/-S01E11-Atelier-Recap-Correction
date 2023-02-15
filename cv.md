@@ -18,8 +18,8 @@
 ***
 
 #### Expérience
-- **Depuis 20015** : Ingénieur à la NASA
-- **2007 à 20015** : Livreur de pizza à San Fransisco
+- **Depuis 2015** : Ingénieur à la NASA
+- **2007 à 2015** : Livreur de pizza à San Fransisco
 - **2004 à 2007** : Coiffeur à domicile à Grenoble
 
 #### Formation
